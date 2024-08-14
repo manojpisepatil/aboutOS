@@ -1,0 +1,37 @@
+firstly copy all main files into c-drive
+such as : a) platform zip fip file & its extracted file
+	  b) twrp img file & disable encription file
+	  c) adb-setup file
+
+==================================================================
+
+step 1 :
+
+1) cmd
+2) fastboot devices
+3) fastboot oem device-info (false) 
+4) fastboot oem unlock / fastboot flashing unlock
+-------------------------------------
+1) fastboot oem device-info (true)
+===================================================================
+step 2 : if step 1 did'nt work;
+
+1) cmd
+2) fastboot devices
+3) fastboot oem device-info (false) 
+4) fastboot flashing unlock
+5) fastboot flashing unlock_critical
+6) fastboot oem device-info (true)
+
+ *some addition commands are there so twrp will not stuck on boot screen ;
+
+1) fastboot format userdata
+2) fastboot format cache
+3) fastboot boot " path of twrp file "
+* after flashing twrp file in mobile twrp will open and there will be pop-up on the pc for internal storage of miA2
+* then copy twrp-3.3.1-0-jasmine_sprout.img (29,904 KB) which we have already flashed through pc and
+* also copy Disable_Dm-Verify_ForceEncrypt_08.18.2019.zip( 3,133 KB)
+4) 1st install / flash twrp img file through mobile ( in recovery partition )
+5) 2nd install / flash directly that force encription file
+******** after all come to home option of twrp then reboot-System
+then Done !
