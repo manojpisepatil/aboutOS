@@ -1,7 +1,9 @@
 
 # Flashing TWRP and Disabling Encryption on Xiaomi Mi A2
 <hr/>
-*All the Below files Should be in C:/ directory only*
+
+*All the Below files Should be  in C:/ directory only*
+
 <hr/>
 This repository provides a step-by-step guide for flashing the TWRP custom recovery and disabling encryption on the Xiaomi Mi A2. Follow these instructions carefully to unlock your device's bootloader, flash TWRP, and manage encryption.
 
