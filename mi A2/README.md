@@ -11,7 +11,7 @@ Before you begin, ensure the following files are copied to your C: drive:
 - **ADB Setup**: Installed ADB and fastboot tools.
 
 ## Step 1: Unlock the Bootloader
-1. Open Command Prompt (cmd).
+1. Open Command Prompt (cmd) through platform tools folder.
 2. Verify your device is recognized with:
    ```
    fastboot devices
