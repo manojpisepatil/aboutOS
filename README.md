@@ -1,14 +1,14 @@
-<ul>
+
   
 # aboutOS 
 
-</ul>
 
-<h1 align="center">
+
+<h3 align="center">
   
 **Here we are discussing about**
 
-</h1>
+</h3>
 
 <hr/>
 <table align="center" >
