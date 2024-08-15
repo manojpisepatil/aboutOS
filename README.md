@@ -3,7 +3,7 @@
 **Here we are discussing about**
 
 <hr/>
-<table color:red>
+<table align="center">
   <tr>  
     <td>1. Bootloader Unlocking</td>
   </tr>
