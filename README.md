@@ -3,21 +3,21 @@
 **Here we are discussing about**
 
 <hr/>
-<table>
+<table Style="background-color:red">
   <tr>  
-  <td>1. Bootloader Unlocking</td>
+    <td>1. Bootloader Unlocking</td>
   </tr>
   <tr>
-  <td>2. RECOVERY flashing</td>
+    <td>2. RECOVERY flashing</td>
   </tr>
   <tr>
-  <td>3. OS changing</td>
+    <td>3. OS changing</td>
   </tr>
   <tr>
-  <td>4. Device Root & Magisk-modules </td>
+    <td>4. Device Root & Magisk-modules </td>
   </tr>
   <tr>
-  <td>5. Root Application's</td>
+    <td>5. Root Application's</td>
   </tr>
 </table>
 <hr/>
