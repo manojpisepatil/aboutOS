@@ -1,8 +1,8 @@
-<span> <ul>
+<ul>
   
 # aboutOS 
 
-</span>
+</ul>
 
 <h1 align="center">
   
