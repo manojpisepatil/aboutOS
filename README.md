@@ -5,7 +5,7 @@
 <hr/>
 <table align="center" >
   <tr>  
-    <td width="100" >1. Bootloader Unlocking</td>
+    <td width="800px" >1. Bootloader Unlocking</td>
   </tr>
   <tr>
     <td>2. RECOVERY flashing</td>
