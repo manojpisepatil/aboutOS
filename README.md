@@ -1,6 +1,6 @@
 # REDMI-NOTE 8
 
-<button> aboutOS </button>  
+-- aboutOS 
   
 
 
