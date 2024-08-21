@@ -1,6 +1,6 @@
 # REDMI-NOTE 8
 
--- aboutOS -- 
+-- aboutOS -- { Here about **REDMI-NOTE 8** & **MI-A2**}
   
 
 
