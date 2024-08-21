@@ -1,9 +1,9 @@
 # aboutOS  
 
   
-<h3 align="center"> 
+<h3 align="center" color="red"> 
 
- **REDMI-NOTE 8**   &&  **MI-A2**
+ **REDMI-NOTE 8**   &  **MI-A2**
 
 </h3>
 
