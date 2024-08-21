@@ -1,19 +1,21 @@
 # aboutOS  
 
   
-<h3 align="center">
-  
-<span style="color: red"> 
+<h3 align="center"> 
 
- **REDMI-NOTE 8** </span>  &&  <span style="color: red">**MI-A2**</span>
+ **REDMI-NOTE 8**   &&  **MI-A2**
 
 </h3>
+
+
 
 <h5 align="center">
   
 **Here we are discussing about**
 
 </h5>
+
+
 
 <hr/>
 <table align="center" >
