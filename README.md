@@ -3,7 +3,7 @@
   
 <h3 align="center">
   
-**REDMI-NOTE 8** && **MI-A2**
+**REDMI-NOTE 8**             &&             **MI-A2**
 
 </h3>
 
