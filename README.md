@@ -1,16 +1,18 @@
-# REDMI-NOTE 8
+# aboutOS  
 
-<....> aboutOS <....> { Here about **REDMI-NOTE 8** & **MI-A2**}
   
-
-
-
-
 <h3 align="center">
+  
+# **REDMI-NOTE 8** && **MI-A2**
+
+</h3>
+
+
+<h5 align="center">
   
 **Here we are discussing about**
 
-</h3>
+</h5>
 
 <hr/>
 <table align="center" >
