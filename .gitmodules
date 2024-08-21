@@ -1,0 +1,3 @@
+[submodule "aboutOS"]
+	path = aboutOS
+	url = https://github.com/manojpisepatil/aboutOS.git
