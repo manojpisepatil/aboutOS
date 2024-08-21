@@ -4,7 +4,6 @@
   <table> 
     <tr>
       <td> REDMI-NOTE 8 </td>
-      &
       <td> MI-A2 </td>
     </tr>
   </table>
